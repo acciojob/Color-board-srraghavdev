@@ -9,9 +9,11 @@
 }
 .square{
 	background-color:rgb(29, 29, 29);
+	transition: all 1s ease-in;
 	
 }
 .square:hover{
     background-color: aqua;
+	transition: all 0s ease-in;
     
 }
