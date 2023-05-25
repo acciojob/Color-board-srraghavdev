@@ -9,12 +9,13 @@
 }
 .square{
 background-color:rgb(29, 29, 29);
-transition: all 1s ease-in;
+transition: all 0.4s ease-out;
 transition-delay: 1s;
 }
 
 .square:hover{
     background-color: aqua;
+	transition:none;
 	transition-delay:0s;
 }
     
