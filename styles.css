@@ -12,6 +12,7 @@ background-color:rgb(29, 29, 29);
 transition: all 1s ease-in;
 transition-delay: 1s;
 }
+
 .square:hover{
     background-color: aqua;
 }
