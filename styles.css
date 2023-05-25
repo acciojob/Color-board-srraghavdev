@@ -9,11 +9,6 @@
 }
 .square{
 	background-color:rgb(29, 29, 29);
-	-ms-transition: background 1s; 
-   transition: background 1s;
-	-moz-transition: background 1s;
-    -webkit-transition: background 1s;
-    -o-transition: background 1s;
 	
 }
 .square:hover{
