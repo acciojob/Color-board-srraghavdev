@@ -8,9 +8,11 @@
 	
 }
 .square{
-	background-color:rgb(29, 29, 29);  
+	background-color:rgb(29, 29, 29);
+	transition: aqua 0.5s;
+	
 }
 .square:hover{
     background-color: aqua;
-    transition-duration: 1s;
+    
 }
