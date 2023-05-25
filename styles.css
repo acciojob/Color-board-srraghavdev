@@ -8,9 +8,7 @@
 	
 }
 .square{
-	background-color:rgb(29, 29, 29);
-	force:true;
-    
+	background-color:rgb(29, 29, 29);  
 }
 .square:hover{
     background-color: aqua;
